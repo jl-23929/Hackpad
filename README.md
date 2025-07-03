@@ -11,7 +11,7 @@ This is my PCB. I made it using KiCAD. It is 60x85mm and uses 2 layers with no v
 # Enclosure
 
 I designed the enclosure using OnShape (Fusion was completely broken at the time).
-![image](https://github.com/user-attachments/assets/3d080141-338a-4b6b-8fc1-396452c839e4)
+<img width="1297" alt="Screenshot 2025-07-03 113658" src="https://github.com/user-attachments/assets/fa68061f-5814-44d1-a912-7d8d09010ccb" />
 The PCB is held in with two M3 standoffs.
 ![image](https://github.com/user-attachments/assets/d0a4b60d-806a-4702-b937-fbbed5db5e1c)
 The bottom of the case has been countersunk for the bolt-heads.
