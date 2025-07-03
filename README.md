@@ -13,9 +13,9 @@ This is my PCB. I made it using KiCAD. It is 60x85mm and uses 2 layers with no v
 I designed the enclosure using OnShape (Fusion was completely broken at the time).
 <img width="1297" alt="Screenshot 2025-07-03 113658" src="https://github.com/user-attachments/assets/fa68061f-5814-44d1-a912-7d8d09010ccb" />
 The PCB is held in with two M3 standoffs.
-![image](https://github.com/user-attachments/assets/d0a4b60d-806a-4702-b937-fbbed5db5e1c)
+![image](https://github.com/user-attachments/assets/48161cf1-a879-466f-8b97-8e59d0aa57cc)
 The bottom of the case has been countersunk for the bolt-heads.
-![image](https://github.com/user-attachments/assets/c814aacf-3877-4779-8508-fef6e91a9ede)
+<img width="660" alt="image" src="https://github.com/user-attachments/assets/89fab95f-21f8-44c1-8b43-d7ae492420a3" />
 
 # BOM
 To build the Hackpad, the following parts are required:
